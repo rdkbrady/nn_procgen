@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+"GMTED2010_Spatial_Metadata/" 
